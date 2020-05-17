@@ -1,0 +1,6 @@
+module Pods_DiaBites_DiaBitesTests {
+  umbrella header "Pods-DiaBites-DiaBitesTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
